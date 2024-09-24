@@ -1,0 +1,8 @@
+{
+	"日常": { "loras":[""], "lora_scales":[0.8, 0.8]},
+	"胶片摄影": { "loras":[""], "lora_scales":[0.8]},
+	"港风": { "loras":[""], "lora_scales":[0.8]},
+	"拍立得": { "loras":[""], "lora_scales":[0.8]}
+}
+
+
