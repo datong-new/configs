@@ -1,5 +1,5 @@
 {
-	"日常": { "loras":["https://huggingface.co/YishaoAI/flux-loras/resolve/main/daily1.safetensors", "https://huggingface.co/YishaoAI/flux-loras/resolve/main/daily2.safetensors"], "lora_scales":[0.8, 0.8]},
+	"日常": { "loras":["https://huggingface.co/YishaoAI/flux-loras/resolve/main/daily2.safetensors"], "lora_scales":[0.8]},
 	"胶片摄影": { "loras":["https://huggingface.co/YishaoAI/flux-loras/resolve/main/photography.safetensors"], "lora_scales":[0.8]},
 	"港风": { "loras":["https://huggingface.co/YishaoAI/flux-loras/resolve/main/gangfeng.safetensors"], "lora_scales":[0.8]},
 	"拍立得": { "loras":["https://huggingface.co/YishaoAI/flux-loras/resolve/main/pailide.safetensors"], "lora_scales":[0.8]}
