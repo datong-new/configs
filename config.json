@@ -5,7 +5,7 @@
 	"拍立得": { "loras":["https://huggingface.co/YishaoAI/flux-loras/resolve/main/pailide.safetensors"], "lora_scales":[0.8]},
 	"国风汉服": { "loras":["https://huggingface.co/YishaoAI/flux-loras/resolve/main/hanfu_new.safetensors"], "lora_scales":[0.7]},
 	"敦煌": { "loras":["https://huggingface.co/YishaoAI/flux-loras/resolve/main/dunhuang_new.safetensors"], "lora_scales":[0.6]},
-	"通用": { "loras":[], "lora_scales":[]},
+	"通用": { "loras":[], "lora_scales":[]}
 }
 
 
