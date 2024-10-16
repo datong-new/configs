@@ -1,3 +1,4 @@
 {
+	"日常": { "loras":["https://huggingface.co/YishaoAI/flux-loras/resolve/main/daily2.safetensors"], "lora_scales":[0.8], "prompt_prefix":""},
 	"通用": { "loras":[], "lora_scales":[], "prompt_prefix":""}
 }
