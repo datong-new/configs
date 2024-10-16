@@ -2,6 +2,6 @@
 	"日常": { "loras":["https://huggingface.co/YishaoAI/flux-loras/resolve/main/daily2.safetensors"], "lora_scales":[0.8], "prompt_prefix":""},
 	"Q版卡通": { "loras":["https://huggingface.co/YishaoAI/txiang/resolve/main/qban_new.safetensors"], "lora_scales":[1.0], "prompt_prefix": "illustration, chibi, cute, Q,  "},
 	"豆豆眼": { "loras":["https://huggingface.co/YishaoAI/txiang/resolve/main/doudouyan_new.safetensors"], "lora_scales":[1.0], "prompt_prefix":"ddy, "},
-	"毛毡": { "loras":["https://huggingface.co/YishaoAI/txiang/resolve/main/maozhan_new.safetensors"], "lora_scales":[1.0], "prompt_prefix":"maorong_v1, "},
+	"毛毡": { "loras":["https://huggingface.co/YishaoAI/txiang/resolve/main/maozhan_new.safetensors"], "lora_scales":[1.0], "prompt_prefix":"maorong_v1, Felt style, very strong felt style, "},
 	"通用": { "loras":[], "lora_scales":[], "prompt_prefix":""}
 }
